@@ -1,3 +1,10 @@
 Tokyo
 Nagoya
+<<<<<<< HEAD
+
+
+
+
+=======
 Hokkaido
+>>>>>>> origin/master
